@@ -1,2 +1,2 @@
-# active-object-delphi
-An example of pseudo concurrency with Active Object
+# Active Object in Delphi
+An example of pseudo concurrency with Active Object. Adapted from ["Agile Principles, Patterns, and Practices in C#"](http://www.amazon.com/Agile-Principles-Patterns-Practices-C-ebook/dp/B0051TM4GI/).
